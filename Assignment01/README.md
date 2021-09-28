@@ -7,5 +7,5 @@ purpose of the assignment: 3-5 sentences what you want to show via this assignme
 
 https://access.wa.gov/
 
-(WA-Gov-Website.png)
+![website of Washington Government](WA-Gov-Website.png)
 
